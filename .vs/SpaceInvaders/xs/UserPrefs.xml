@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C70CD6E8-598C-49CE-8727-F97615BD42A8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SpaceInvaders PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceInvaders/States/game.cs">
+    <Files>
+      <File FileName="SpaceInvaders/Game1.cs" />
+      <File FileName="SpaceInvaders/States/game.cs" Line="29" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceInvaders" expanded="True">
+            <Node name="SpaceInvaders" expanded="True">
+              <Node name="States" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/zainabpatel/Documents/VS/SpaceInvaders/SpaceInvaders/Content/audio/bgMusic.mp3","/Users/zainabpatel/Documents/VS/SpaceInvaders/SpaceInvaders/Content/bin/DesktopGL/Content/audio/bgMusic.xnb","SongProcessor","SongContent",1883951,125,1.265387
+"/Users/zainabpatel/Documents/VS/SpaceInvaders/SpaceInvaders/Content/audio/enemykilled.wav","/Users/zainabpatel/Documents/VS/SpaceInvaders/SpaceInvaders/Content/bin/DesktopGL/Content/audio/enemykilled.xnb","SoundEffectProcessor","SoundEffectContent",3421,3482,0.20209
+"/Users/zainabpatel/Documents/VS/SpaceInvaders/SpaceInvaders/Content/audio/playerdead.wav","/Users/zainabpatel/Documents/VS/SpaceInvaders/SpaceInvaders/Content/bin/DesktopGL/Content/audio/playerdead.xnb","SoundEffectProcessor","SoundEffectContent",8775,8836,0.208
+"/Users/zainabpatel/Documents/VS/SpaceInvaders/SpaceInvaders/Content/audio/shoot.wav","/Users/zainabpatel/Documents/VS/SpaceInvaders/SpaceInvaders/Content/bin/DesktopGL/Content/audio/shoot.xnb","SoundEffectProcessor","SoundEffectContent",4124,4185,0.186973
